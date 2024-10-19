@@ -1,0 +1,44 @@
+.box{
+	margin: 30px 0;
+	background-color: skyblue;
+	cursor: pointer;
+	transition: .33s;
+}
+
+h2{
+	margin: 50px 0 0;
+}
+
+h1{
+	margin: 0;
+	padding: 70px 20px;
+	font-family: sans-serif;
+	font-size: 25px;
+	font-weight: 500;
+	text-align: center;
+}
+
+
+.box-1:hover{
+	box-shadow: 0px 35px 90px -25px darkblue;
+
+}
+.box-2:hover{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) ;
+}
+.box-3:hover{
+	box-shadow: 0 2px 15px 2px #d2d2d2, 0 4px 15px 3px #ffc1c1, 0 6px 15px 10px #eff7f3 ;
+}
+
+.box-4{
+ 	box-shadow: 0px 35px 90px -25px darkgoldenrod ;
+}
+.box-5{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19) ;
+}
+.box-6{
+	box-shadow: 0 2px 15px 2px #d2d2d2, 0 4px 15px 3px indianred, 0 6px 15px 10px #eff7f3;
+}
+
+
+
